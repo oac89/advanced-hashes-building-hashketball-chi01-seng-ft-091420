@@ -4,7 +4,7 @@ def game_hash
     home: {
       team_name: ("Brooklyn Nets"),
       colors: ["Black", "White"],
-      players: ( 
+      players: [ 
                       {                  
                        
                         player_name: "Alan Anderson",
@@ -30,7 +30,7 @@ def game_hash
                         blocks: 12,
                         slam_dunks: 7
                           }
-                        )
+                        ]
                         },
                       
     
@@ -38,7 +38,7 @@ def game_hash
      away: {
       team_name: ("Charlotte Hornets"),
       colors: ["Turquoise", "Purple"],
-      players: (
+      players: [
                     {      
        
                         player_name: "Jeff Adrien",     
@@ -63,7 +63,7 @@ def game_hash
                         slam_dunks: 10 
                             
                           }
-                        )
+                        ]
                     }  
     }        
   end 
