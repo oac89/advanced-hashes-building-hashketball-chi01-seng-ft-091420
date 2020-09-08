@@ -51,9 +51,7 @@ def game_hash
                         blocks: 7,
                         slam_dunks: 2
                       }
-                         
-                       
-                       {   
+                         {   
                         player_name: "Bismack Biyombo", 
                         number: 0,
                         shoe: 16,
@@ -65,11 +63,9 @@ def game_hash
                         slam_dunks: 10 
                             
                           }
-                        
-                      )
+                        )
                     }  
-              
-  }        
+    }        
   end 
  
                           
