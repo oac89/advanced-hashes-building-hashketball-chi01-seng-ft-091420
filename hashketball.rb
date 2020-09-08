@@ -17,7 +17,7 @@ def game_hash
                         blocks: 1,
                         slam_dunks: 1
                         
-                      })
+                      }
                           
                       
                         { 
@@ -58,7 +58,7 @@ def game_hash
                         steals: 2,
                         blocks: 7,
                         slam_dunks: 2
-                      },
+                      }
                          
                        
                        {   
