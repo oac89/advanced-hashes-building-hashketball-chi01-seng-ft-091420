@@ -20,11 +20,7 @@ def game_hash
                       },
                           
                       
-                        
-                        
-                        
-                    
-                       
+                        { 
                         player_name: "Reggie Evans"
                         number: 30,
                         shoe: 14,
@@ -37,7 +33,7 @@ def game_hash
                           }
                          }
                         
-                      }
+                      
                           
                         
                         
@@ -46,7 +42,9 @@ def game_hash
     away: {
       team_name: ("Charlotte Hornets"),
       colors: ["Turquoise", "Purple"],
-      players: [player_name: 
+      players: (
+                    {      
+        player_name: 
                     
         
                        {"Jeff Adrien" =>     
