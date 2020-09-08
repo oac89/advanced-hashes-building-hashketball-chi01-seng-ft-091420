@@ -31,7 +31,11 @@ def game_hash
                         blocks: 12,
                         slam_dunks: 7
                           }
-                         }
+                        )                      
+      
+    }
+                          
+                         
                         
                       
                           
@@ -44,11 +48,10 @@ def game_hash
       colors: ["Turquoise", "Purple"],
       players: (
                     {      
-        player_name: 
+       
                     
         
-                       {"Jeff Adrien" =>     
-                        {
+                        player_name: "Jeff Adrien"     
                         number: 4,
                         shoe: 18,
                         points: 10, 
