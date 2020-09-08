@@ -4,9 +4,9 @@ def game_hash
     home: {
       team_name: ("Brooklyn Nets"),
       colors: ["Black", "White"],
-      players = array.push(player_name): 
+      players = array.push(player_name) 
                         
-        
+        player_name =
                         {"Alan Anderson" =>
                         {
                         number: 0,
